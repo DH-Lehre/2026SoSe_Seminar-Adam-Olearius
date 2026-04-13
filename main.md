@@ -8,11 +8,11 @@ narrator: UK English Female
 
 -->
 
-# Mapping Adam Olearius (1599-1671): Reiseberichte, Sammlungen und Wissensräume digital verknüpft
+# Mapping Adam Olearius (1599-1671)
+
+**Reiseberichte, Sammlungen und Wissensräume digital verknüpft** 
 
 Projektseminar zur Geschichte der Neuzeit
-
-![Adam Olearius](img/Adam-Olearius.jpg)
 
 **Dozierende:**
 
@@ -20,6 +20,8 @@ Projektseminar zur Geschichte der Neuzeit
 * Dr. Gregor Große-Bölting, M.A., M.A.
 
 **Zeit und Raum:** Do 10:15 - 11:45, UB Kiel, DLL
+
+![Adam Olearius](img/Adam-Olearius.jpg)
 
 **Inhalt:**
 
@@ -50,7 +52,7 @@ Die Gottorfer Kunst- und Wunderkammer zählt zu den bedeutendsten enzyklopädisc
 | 23.04. | **HINTERGRUND:** Adam Olearius | 
 | 30.04. | Forschungsreisen und Forschungsreisende | 
 | 07.05. | Wunderkammern, Sammlungen und materielle Objekte in den Geschichtswissenschaften |
-| 14.05. | **FEIERTAG - KEIN SEMINAR** |
+| 14.05. | FEIERTAG - KEIN SEMINAR |
 | 21.05. | Wissenskonstruktion und Forschung in der frühen Neuzeit |
 | 28.05. | **DIGITAL HUMANITIES:** Daten und Metadaten |
 | 04.06. | Geodaten (GIS) und TEI XML |
