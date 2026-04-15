@@ -51,10 +51,10 @@ Die Gottorfer Kunst- und Wunderkammer zählt zu den bedeutendsten enzyklopädisc
 | 16.04. | Begrüßung, Organisatorisches, Erwartungen, Fragen |           
 | 23.04. | **HINTERGRUND:** Welt- und Seinserfahrung. Das Barockzeitalter als Epoche der Entdeckungen und Erfindungen | 
 | 30.04. | Von der Entdeckungsreise zur Forschungsreise: Die persianische und moscuwitische Reisebeschreibung von Adam Olearius | 
-| 07.05. | Die Gesandtschaftsreise: Von der Entdeckungsreise zur Forschungsreise, Wirtschaftliche Ziele und Absichten der Delegation, Vorgänger und Gleichgesinnte |
+| 07.05. | Die Etappen der Reise, wirtschaftliche Ziele und Absichten der Delegation, Vorgänger und Gleichgesinnte |
 | 14.05. | FEIERTAG - KEIN SEMINAR |
 | 21.05. | Wunderkammern, Sammlungen und materielle Objekte in den Geschichtswissenschaften |
-| 28.05. | **DIGITAL HUMANITIES:** Daten und Metadaten |
+| 28.05. | **DIGITAL HUMANITIES:** Daten und Metadaten / Visualisierungen(?) |
 | 04.06. | Geodaten (GIS) und TEI XML |
 | 11.06. | Arbeiten mit Recogito |
 | 18.06. | Photogrammetrie und 3D-Druck |
