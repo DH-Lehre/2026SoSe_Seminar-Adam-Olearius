@@ -39,8 +39,7 @@ Die Gottorfer Kunst- und Wunderkammer zählt zu den bedeutendsten enzyklopädisc
 **Weiterführende Links und Literatur:**
 
 * Haberland, Detlef (Hg.): Olearius, Adam Moskowitische und Persische Reise: Die holsteinische Gesandtschaft beim Schah 1633 – 1639, Stuttgart-Wien 1986
-* Kemper, Hans-Georg: Denkt, dass in der Barbarei / Alles nicht barbarisch sei! Zur 'Muscowitischen und persischen Reise' von Adam Olearius und Paul Fleming. In: Ertzdorff, Xenja von (Hg.): Beschreibung der Welt, Amsterdam/Atlanta, 2000 (= Chloe. Beihefte zum Daphnis 31), S. 315-344.. 
-
+  
 ## Allgemeines und erste Sitzung
 
 ### Semesterplan
@@ -52,9 +51,9 @@ Die Gottorfer Kunst- und Wunderkammer zählt zu den bedeutendsten enzyklopädisc
 | 16.04. | Begrüßung, Organisatorisches, Erwartungen, Fragen |           
 | 23.04. | **HINTERGRUND:** Welt- und Seinserfahrung. Das Barockzeitalter als Epoche der Entdeckungen und Erfindungen | 
 | 30.04. | Von der Entdeckungsreise zur Forschungsreise: Die persianische und moscuwitische Reisebeschreibung von Adam Olearius | 
-| 07.05. | Wunderkammern, Sammlungen und materielle Objekte in den Geschichtswissenschaften |
+| 07.05. | Die Gesandtschaftsreise: Von der Entdeckungsreise zur Forschungsreise, Wirtschaftliche Ziele und Absichten der Delegation, Vorgänger und Gleichgesinnte |
 | 14.05. | FEIERTAG - KEIN SEMINAR |
-| 21.05. | Wissenskonstruktion und Forschung in der frühen Neuzeit |
+| 21.05. | Wunderkammern, Sammlungen und materielle Objekte in den Geschichtswissenschaften |
 | 28.05. | **DIGITAL HUMANITIES:** Daten und Metadaten |
 | 04.06. | Geodaten (GIS) und TEI XML |
 | 11.06. | Arbeiten mit Recogito |
@@ -80,6 +79,7 @@ Details folgen im Laufe des Semesters.
 
 ### Aufgabe zur nächsten Woche
 
-
+* Haberland, Detlef (Hg.): Olearius, Adam Moskowitische und Persische Reise: Die holsteinische Gesandtschaft beim Schah 1633 – 1639, Stuttgart-Wien 1986, S. 13-46
+* Kemper, Hans-Georg: Denkt, dass in der Barbarei / Alles nicht barbarisch sei! Zur 'Muscowitischen und persischen Reise' von Adam Olearius und Paul Fleming. In: Ertzdorff, Xenja von (Hg.): Beschreibung der Welt, Amsterdam/Atlanta, 2000 (= Chloe. Beihefte zum Daphnis 31), S. 315-344
 
 ## Sitzung am 24.04.
