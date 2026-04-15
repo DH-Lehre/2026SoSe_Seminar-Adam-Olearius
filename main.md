@@ -38,7 +38,8 @@ Die Gottorfer Kunst- und Wunderkammer zählt zu den bedeutendsten enzyklopädisc
 
 **Weiterführende Links und Literatur:**
 
-* Haberland, Detlef (Hg.): Olearius, Adam Moskowitische und Persische Reise: Die holsteinische Gesandtschaft beim Schah 1633 – 1639, Stuttgart-Wien 1986. 
+* Haberland, Detlef (Hg.): Olearius, Adam Moskowitische und Persische Reise: Die holsteinische Gesandtschaft beim Schah 1633 – 1639, Stuttgart-Wien 1986
+* Kemper, Hans-Georg: Denkt, dass in der Barbarei / Alles nicht barbarisch sei! Zur 'Muscowitischen und persischen Reise' von Adam Olearius und Paul Fleming. In: Ertzdorff, Xenja von (Hg.): Beschreibung der Welt, Amsterdam/Atlanta, 2000 (= Chloe. Beihefte zum Daphnis 31), S. 315-344.. 
 
 ## Allgemeines und erste Sitzung
 
@@ -49,8 +50,8 @@ Die Gottorfer Kunst- und Wunderkammer zählt zu den bedeutendsten enzyklopädisc
 | Datum  | Thema/Inhalt                                      | 
 |--------|---------------------------------------------------|
 | 16.04. | Begrüßung, Organisatorisches, Erwartungen, Fragen |           
-| 23.04. | **HINTERGRUND:** Adam Olearius | 
-| 30.04. | Forschungsreisen und Forschungsreisende | 
+| 23.04. | **HINTERGRUND:** Welt- und Seinserfahrung. Das Barockzeitalter als Epoche der Entdeckungen und Erfindungen | 
+| 30.04. | Von der Entdeckungsreise zur Forschungsreise: Die persianische und moscuwitische Reisebeschreibung von Adam Olearius | 
 | 07.05. | Wunderkammern, Sammlungen und materielle Objekte in den Geschichtswissenschaften |
 | 14.05. | FEIERTAG - KEIN SEMINAR |
 | 21.05. | Wissenskonstruktion und Forschung in der frühen Neuzeit |
