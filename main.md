@@ -55,12 +55,12 @@ Die Gottorfer Kunst- und Wunderkammer zählt zu den bedeutendsten enzyklopädisc
 | 14.05. | FEIERTAG - KEIN SEMINAR |
 | 21.05. | Wunderkammern, Sammlungen und materielle Objekte in den Geschichtswissenschaften |
 | 28.05. | **DIGITAL HUMANITIES:** Daten und Metadaten / Visualisierungen |
-| 04.06. | Geodaten (GIS) und TEI XML |
-| 11.06. | Arbeiten mit Recogito |
+| 04.06. | Geodaten (GIS) und Arbeiten mit Recogito |
+| 11.06. | TEI XML / Close und Distant Reading |
 | 18.06. | Photogrammetrie und 3D-Druck |
-| 25.06. | **PRAXISPHASE / PROJEKT:**  |
-| 02.07. |  |
-| 09.07. |  |
+| 25.06. | **PRAXISPHASE / PROJEKT**   |
+| 02.07. | Arbeitssitzung |
+| 09.07. | Abschlusssitzung / Präsentationen |
 
 ### Forschungs(daten)zyklus
 
