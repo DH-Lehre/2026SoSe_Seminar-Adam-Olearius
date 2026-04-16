@@ -79,7 +79,7 @@ Details folgen im Laufe des Semesters.
 
 ### Aufgabe zur nächsten Woche
 
-* Haberland, Detlef (Hg.): Olearius, Adam Moskowitische und Persische Reise: Die holsteinische Gesandtschaft beim Schah 1633 – 1639, Stuttgart-Wien 1986, S. 13-46
-* Kemper, Hans-Georg: Denkt, dass in der Barbarei / Alles nicht barbarisch sei! Zur 'Muscowitischen und persischen Reise' von Adam Olearius und Paul Fleming. In: Ertzdorff, Xenja von (Hg.): Beschreibung der Welt, Amsterdam/Atlanta, 2000 (= Chloe. Beihefte zum Daphnis 31), S. 315-344
+* Strack, Thomas: Exotische Erfahrung und Intersubjektivität. Reiseberichte im 17. und 18. Jahrhundert. Genregeschichtliche Untersuchung zu Adam Olearius – Hans Egede – Georg Forster. Kasseler Studien zu deutschsprachigen Literaturgeschichte Bd. 2, Paderborn, 1994, S.57-71
+* Freund, Winfried: Abenteuer Barock. Kultur im Zeitalter der Entdeckungen, Darmstadt, 2004.
 
 ## Sitzung am 24.04.
