@@ -66,6 +66,22 @@ Die Gottorfer Kunst- und Wunderkammer zählt zu den bedeutendsten enzyklopädisc
 
 ![Forschungsdatenzyklus](img/csm_FDZyklus_de_2022_f6d41ddace.png "© SZF TU Berlin, CC BY 4.0")
 
+#### ScanTent
+
+![ScanTent](img/scantent-hero.jpg)
+
+#### Transkribus
+
+![Transkribus](img/transkribus_bsp.png)
+
+#### TEI XML: Datenannotation
+
+![TEI XML](img/anno_markieren.png)
+
+#### Analyse: Netzwerke, Zeitverläufe, GIS
+
+![Begriffsnetz bei Blücher](img/bluecher_zuschnitt.png)
+
 ### Prüfungsleistung
 
 Details folgen im Laufe des Semesters.
