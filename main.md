@@ -111,3 +111,8 @@ Besuch von Jessica Bruns, Leiterin des Altbestands der UB, zur Besichtigung der 
 
 ![Titelkupfer1656](img/Titelblatt.jpg)
 
+
+#### Erläuterung
+Die beiden kunstvollen Titelkupfer dienen als Einstieg in die von Olearius beschriebenen fremden Kulturen. Sie zeigen eine verzierte Ädikula mit Olearius auf dem Giebel sowie einen persischen Schah und einen russischen Bojaren als Vertreter der bereisten Regionen. Kleidung, Wappen und Symbole wie der Falke oder der Knes verweisen auf Macht, Herkunft und kulturelle Unterschiede und machen das Titelkupfer zu mehr als nur einer dekorativen Darstellung.
+
+
