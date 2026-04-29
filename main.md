@@ -99,3 +99,15 @@ Details folgen im Laufe des Semesters.
 * Freund, Winfried: Abenteuer Barock. Kultur im Zeitalter der Entdeckungen, Darmstadt, 2004.
 
 ## Sitzung am 24.04.
+Besuch von Jessica Bruns, Leiterin des Altbestands der UB, zur Besichtigung der Originalquelle von Adam Olearius Reisebeschreibung aus dem Jahr 1647
+
+## Sitzung am 30.04.
+
+#### Titelkupfer der Reisebschreibung 1647
+
+![Titelkupfer1647](img/csm_FDZyklus_de_2022_f6d41ddace.png "© SZF TU Berlin, CC BY 4.0")
+
+#### Titelkupfer der Reisebschreibung 1656
+
+![Titelkupfer1656](img/csm_FDZyklus_de_2022_f6d41ddace.png "© SZF TU Berlin, CC BY 4.0")
+
