@@ -117,4 +117,11 @@ Die beiden kunstvollen Titelkupfer dienen als Einstieg in die von Olearius besch
 
 Quelle: Yosra Mostafa Nagi (1. Mai 2025). Olearius’ Persianische Reisebeschreibung, https://doi.org/10.58079/13xzq
 
+#### Gruppenarbeit
+Bilden Sie vier Arbeitsgruppen. Jede Gruppe erhält eine individuelle Aufgabe, die Sie über den folgenden Link zum Conceptboard erreichen.
+* Gruppe 1: Adam Olearius als Reisender, Schriftsteller und Herausgeber. Gliedern Sie Olearius Leben in verschiedene Abschnitte und legen dabei den Fokus auf die Zeit der Gesandtschaftsreise und der Veröffentlichung der Reisebeschreibung: https://app.conceptboard.com/board/0pa3-2tm2-dp9n-581a-f6fb
+* Gruppe 2: Kontext Quellenpassagen. Sammeln und gliedern Sie die in der vorliegenden Forschungsliteratur genutzten Quellenapssagen / Zitate aus der Reisebeschreibung: https://app.conceptboard.com/board/d76p-ntgc-sabp-sryg-n1sb
+* Gruppe 3: Die Eröffnung eines neuen Handelswegs und die Etappen der Gesandtschaft: https://app.conceptboard.com/board/6dqx-xeda-d217-7q85-fcuo
+
+
 
