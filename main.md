@@ -105,7 +105,7 @@ Besuch von Jessica Bruns, Leiterin des Altbestands der UB, zur Besichtigung der 
 
 #### Titelkupfer der Reisebschreibung 1647
 
-![Titelkupfer1647](img/Screenshot 'Olearius Adam Offt begehrte Beschreibung.png)
+![Titelkupfer1647](img/Screenshot Offt begehrte Beschreibung.png)
 
 #### Titelkupfer der Reisebschreibung 1656
 
