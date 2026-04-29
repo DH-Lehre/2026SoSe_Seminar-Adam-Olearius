@@ -105,7 +105,7 @@ Besuch von Jessica Bruns, Leiterin des Altbestands der UB, zur Besichtigung der 
 
 #### Titelkupfer der Reisebschreibung 1647
 
-![Titelkupfer1647](img/Screenshot Offt begehrte Beschreibung.png)
+![Titelkuper1647](img/Screenshot.png)
 
 #### Titelkupfer der Reisebschreibung 1656
 
@@ -113,6 +113,8 @@ Besuch von Jessica Bruns, Leiterin des Altbestands der UB, zur Besichtigung der 
 
 
 #### Erläuterung
-Die beiden kunstvollen Titelkupfer dienen als Einstieg in die von Olearius beschriebenen fremden Kulturen. Sie zeigen eine verzierte Ädikula mit Olearius auf dem Giebel sowie einen persischen Schah und einen russischen Bojaren als Vertreter der bereisten Regionen. Kleidung, Wappen und Symbole wie der Falke oder der Knes verweisen auf Macht, Herkunft und kulturelle Unterschiede und machen das Titelkupfer zu mehr als nur einer dekorativen Darstellung.
+Die beiden kunstvollen Titelkupfer dienen als Einstieg in die von Olearius beschriebenen fremden Kulturen. Das Titelkupfer von 1647 präsentiert eine reich verzierte Ädikula, die nicht nur dekorativen Charakter besitzt, sondern zugleich die vielschichtigen Ideen des Barock widerspiegelt. Auf dem Giebel erscheint Olearius selbst und inszeniert sich damit als Chronist, Künstler und Repräsentant seines Werkes. Flankiert wird die Szenerie von einem persischen Schah und einem russischen Bojaren, die die zentralen kulturellen Räume der Reise symbolisieren. Ihre detailreich ausgearbeiteten Gewänder und Attribute – etwa die Fuchsmützen des Bojaren oder die prächtige Kleidung des Schahs – verweisen auf die jeweiligen kulturellen Besonderheiten. Wappen unterhalb der Figuren betonen die politischen Identitäten, während ihre Fußstellungen gezielt auf Herkunft und Macht verweisen. Ergänzende Symbole wie der Falke des Schahs als Zeichen von Ehre und Herrschaft sowie der Knes hinter dem Bojaren als Vertreter des russischen Adels vertiefen die ikonographische Aussage und unterstreichen die repräsentative Funktion des Bildes.
+
+Quelle: Yosra Mostafa Nagi (1. Mai 2025). Olearius’ Persianische Reisebeschreibung, https://doi.org/10.58079/13xzq
 
 
