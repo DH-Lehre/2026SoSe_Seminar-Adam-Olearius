@@ -51,9 +51,9 @@ Die Gottorfer Kunst- und Wunderkammer zählt zu den bedeutendsten enzyklopädisc
 | 16.04. | Begrüßung, Organisatorisches, Erwartungen, Fragen |           
 | 23.04. | **HINTERGRUND:** Welt- und Seinserfahrung. Das Barockzeitalter als Epoche der Entdeckungen und Erfindungen | 
 | 30.04. | Von der Entdeckungsreise zur Forschungsreise: Die persianische und moscuwitische Reisebeschreibung von Adam Olearius | 
-| 07.05. | Die Etappen der Reise / wirtschaftliche Ziele und Absichten der Delegation / Vorgänger und Gleichgesinnte |
+| 07.05. | Wunderkammern, Sammlungen und materielle Objekte in den Geschichtswissenschaften |
 | 14.05. | FEIERTAG - KEIN SEMINAR |
-| 21.05. | Wunderkammern, Sammlungen und materielle Objekte in den Geschichtswissenschaften |
+| 21.05. |  |
 | 28.05. | **DIGITAL HUMANITIES:** Daten und Metadaten / Visualisierungen |
 | 04.06. | Geodaten (GIS) und Arbeiten mit Recogito |
 | 11.06. | TEI XML / Close und Distant Reading |
@@ -99,7 +99,7 @@ Details folgen im Laufe des Semesters.
 * Freund, Winfried: Abenteuer Barock. Kultur im Zeitalter der Entdeckungen, Darmstadt, 2004.
 
 ## Sitzung am 24.04.
-Besuch von Jessica Bruns, Leiterin des Altbestands der UB, zur Besichtigung der Originalquelle von Adam Olearius Reisebeschreibung aus dem Jahr 1647
+Besuch von Jessica Bruns, Leiterin des Altbestands der UB, zur Besichtigung der Originalquelle von Adam Olearius Reisebeschreibung aus dem Jahr 1647.
 
 ## Sitzung am 30.04.
 
@@ -119,9 +119,16 @@ Quelle: Yosra Mostafa Nagi (1. Mai 2025). Olearius’ Persianische Reisebeschrei
 
 #### Gruppenarbeit
 Bilden Sie vier Arbeitsgruppen. Jede Gruppe erhält eine individuelle Aufgabe, die Sie über den folgenden Link zum Conceptboard erreichen.
+
 * Gruppe 1: Adam Olearius als Reisender, Schriftsteller und Herausgeber. Gliedern Sie Olearius Leben in verschiedene Abschnitte und legen dabei den Fokus auf die Zeit der Gesandtschaftsreise und der Veröffentlichung der Reisebeschreibung: https://app.conceptboard.com/board/0pa3-2tm2-dp9n-581a-f6fb
 * Gruppe 2: Kontext Quellenpassagen. Sammeln und gliedern Sie die in der vorliegenden Forschungsliteratur genutzten Quellenapssagen / Zitate aus der Reisebeschreibung: https://app.conceptboard.com/board/d76p-ntgc-sabp-sryg-n1sb
 * Gruppe 3: Die Eröffnung eines neuen Handelswegs und die Etappen der Gesandtschaft: https://app.conceptboard.com/board/6dqx-xeda-d217-7q85-fcuo
+* Gruppe 4: Von der Entdeckungsreise zur Forschungsreise. Warum spricht man bei Olearius Reisebeschreibung erstmals von einem Bericht, der einem Übergang von einer reinen Entdeckungsreise hin zu einer Forschungsreise widerspiegelt? https://app.conceptboard.com/board/a26o-xbyh-r5fd-rpyk-x19z
+
+
+### Aufgabe zur nächsten Woche
+* Bente Gundestrup: Adam Olearius and the Kunstkammer, in: Kirsten Baumann/Constanze Köster/Uta Kuhl: Adam Olearius. Neugier als Methode (Tagungsband zur internationalen Tagung „Der Gottorfer Hofgelehrte Adam Olearius. Neugier als Methode?“, Schleswig 2015). Michael Imhof Verlag, Petersberg 2017, S. 185-193.
+
 
 
 
