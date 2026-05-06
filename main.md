@@ -130,5 +130,45 @@ Bilden Sie vier Arbeitsgruppen. Jede Gruppe erhält eine individuelle Aufgabe, d
 * Bente Gundestrup: Adam Olearius and the Kunstkammer, in: Kirsten Baumann/Constanze Köster/Uta Kuhl: Adam Olearius. Neugier als Methode (Tagungsband zur internationalen Tagung „Der Gottorfer Hofgelehrte Adam Olearius. Neugier als Methode?“, Schleswig 2015). Michael Imhof Verlag, Petersberg 2017, S. 185-193.
 
 
+## Sitzung am 07.05.
+Adam Olearius und die Gottorfische Kunstkammer
+
+![Titelkupfer1656](img/Titelblatt.jpg)
+
+https://www.digitale-sammlungen.de/de/view/bsb10051222?page=161
+
+### Wissensordnung der Renaissance/ des Barock
+
+### Konzept der Kunstkammer: Mikro-/Makrokosmos
+
+### Objekte und Kategorien: Naturalia vs. Artificialia
+
+### Systematik nach Samuel Quiccheberg
+Quicchebergs Modell ist in 5 „Klassen“ unterteilt:
+* Religiöse Kunst und Geschichte, die Genealogie des Stifters und Porträts des Herrscherhauses, topographische Darstellungen des Landes, militärischen Operationen und Zeremonien,  Architektur, Modelle von Maschinen.
+* Skulpturen und Numismatik sowie damit verbundene Kunstformen.
+* Naturproben, naturhistorische Sammlungen, Kunstobjekte und Ethnographica.
+* Wissenschaftliche und mechanische Instrumente.
+* Gemälde und grafische Werke, Edelsteine, Spiele und Unterhaltung, Heraldik, Textilien und Objekte aus der lokalen Region. 
+
+### Inventar von 1710
+Das Inventar von 1710 ist in die folgenden Hauptgruppen gegliedert, von denen einige Untergruppen haben:
+I. Pretiosa
+II. Uhren
+III. Gemälde
+IV. Skulptur
+V. Antiquitäten
+VI. Naturalien
+VII. Gewehr und Opfer-Gerätschaft
+VIII. Der Schrank zu mathematischen Instrumenten. Oben auf dem Schrank. Unten im Schrank. Beim Schrank. In der Mitte auf dem Tisch
+IX. Kleider
+X. Sachen, die unter vielen Rubriken gehören
+
+
+
+
+
+
+
 
 
