@@ -153,16 +153,16 @@ Quicchebergs Modell ist in 5 „Klassen“ unterteilt:
 
 ### Inventar von 1710
 Das Inventar von 1710 ist in die folgenden Hauptgruppen gegliedert, von denen einige Untergruppen haben:
-I. Pretiosa
-II. Uhren
-III. Gemälde
-IV. Skulptur
-V. Antiquitäten
-VI. Naturalien
-VII. Gewehr und Opfer-Gerätschaft
-VIII. Der Schrank zu mathematischen Instrumenten. Oben auf dem Schrank. Unten im Schrank. Beim Schrank. In der Mitte auf dem Tisch
-IX. Kleider
-X. Sachen, die unter vielen Rubriken gehören
+1. Pretiosa
+2. Uhren
+3. Gemälde
+4. Skulptur
+5. Antiquitäten
+6. Naturalien
+7. Gewehr und Opfer-Gerätschaft
+8. Der Schrank zu mathematischen Instrumenten. Oben auf dem Schrank. Unten im Schrank. Beim Schrank. In der Mitte auf dem Tisch
+9. Kleider
+10. Sachen, die unter vielen Rubriken gehören
 
 
 
