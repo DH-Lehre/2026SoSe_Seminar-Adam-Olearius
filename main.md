@@ -133,7 +133,7 @@ Bilden Sie vier Arbeitsgruppen. Jede Gruppe erhält eine individuelle Aufgabe, d
 ## Sitzung am 07.05.
 Adam Olearius und die Gottorfische Kunstkammer
 
-![Titelkupfer1656](img/Titelblatt.jpg)
+![TitelblattKunstkammer](img/Titelblatt_Kunstkammer.jpg)
 
 https://www.digitale-sammlungen.de/de/view/bsb10051222?page=161
 
