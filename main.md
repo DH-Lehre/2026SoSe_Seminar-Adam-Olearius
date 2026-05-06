@@ -137,10 +137,12 @@ Adam Olearius und die Gottorfische Kunstkammer
 
 Link zum Sammlungskatalog "Die Gottorfische Kunst-Cammer", Adam Olearius, 1666: https://www.digitale-sammlungen.de/de/view/bsb10051222?page=161
 
+### Kunstkammer Kopenhagen
 ![KunstkammerKopenhagen](img/Kunstkammer_Kopenhagen.jpg)
 
 Ansicht der Kunst- und Wunderkammer von Ole Worm, Kupferstich aus Willum Worm, Musei Wormiani Historia, Leiden 1655
 
+### Museum Faesch in Basel
 ![KunstkammerBasel](img/Kunstkammer_Basel.jpg)
 
 Ansicht des Museums Faesch von Remigius Faesch (1595–1667)
