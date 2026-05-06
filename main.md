@@ -137,6 +137,10 @@ Adam Olearius und die Gottorfische Kunstkammer
 
 Link zum Sammlungskatalog "Die Gottorfische Kunst-Cammer", Adam Olearius, 1666: https://www.digitale-sammlungen.de/de/view/bsb10051222?page=161
 
+![KunstkammerKopenhagen](img/Kunstkammer_Kopenhagen.jpg)
+
+![TitelblattKunstkammer](img/Titelblatt_Kunstkammer.jpg)
+
 ### Die Gottorfer Kunstkammer
 Die Gottorfer Kunst- und Naturalienkammer, die von Herzog Friedrich III. unter Adam Olearius im Jahre 1650 angelegt wurde, visualisiert zum einen die Landschaft in ihrer physikalischen Form (Naturalia) und erzeugt zeitgleich ein Bild, wie sie durch menschliche Künste und Kräfte in ihrem Zustand verändert und geformt wird (Artificialia). Ihr Anspruch war der Zeiterscheinung folgend, die universelle Beziehung aller Dinge, von Kunst und Natur, von Historie und Wissenschaft, darzustellen. Das System, das Adam Olearius in der Gottorfer Kunstkammer durch die Sammlungsgegenstände und ihrer Ordnung entwarf, lässt sich anhand der folgenden Formulierung aus seinem Werk zur Gottorfer Kunstkammer verdeutlichen:
 "durch das Kleine was Grosses andeuten und zu verstehen geben".  
