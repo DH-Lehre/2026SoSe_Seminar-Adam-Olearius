@@ -182,3 +182,25 @@ Das Inventar von 1710 ist in die folgenden Hauptgruppen gegliedert, von denen ei
 9. Kleider
 10. Sachen, die unter vielen Rubriken gehören
 
+### Aufgabe zur nächsten Woche
+
+Bitte lesen Sie (beide Texte finden Sie im OLAT): 
+
+* Orientalismus (Docupedia-Zeitgeschichte)
+* Colonial Violance and the Postcolonial Digital Archive
+
+
+## Sitzung am 21.05. 
+
+### Aufgabe zur nächsten Woche
+
+Bitte bereiten Sie zur nächsten Woche die folgenden Texte vor (beide im OLAT): 
+
+* Drucker, J. (2021). Metadata, markup, and data description. In The Digital Humanities Coursebook. An Introduction to Digital Methods for Research and Scholarship. Routledge.
+* Drucker, J. (2021). Data modeling and use. In The Digital Humanities Coursebook. An Introduction to Digital Methods for Research and Scholarship. Routledge.
+
+Bitte schauen Sie sich außerdem die digitale Edition der Humboldt Reisetagebücher an, bspw.: https://edition-humboldt.de/reisetagebuecher/index.xql?id=H0018393&l=de Wie finden Sie hier Daten und Metadaten abgebildet? Wie wurden die Daten (wahrscheinlich) modelliert? 
+
+
+## Sitzung am 28.05. 
+
