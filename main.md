@@ -53,7 +53,7 @@ Die Gottorfer Kunst- und Wunderkammer zählt zu den bedeutendsten enzyklopädisc
 | 30.04. | Von der Entdeckungsreise zur Forschungsreise: Die persianische und moscuwitische Reisebeschreibung von Adam Olearius | 
 | 07.05. | Wunderkammern, Sammlungen und materielle Objekte in den Geschichtswissenschaften |
 | 14.05. | FEIERTAG - KEIN SEMINAR |
-| 21.05. |  |
+| 21.05. | Orientalismus und das Archiv; Arbeitssitzung und Gruppeneinteilung |
 | 28.05. | **DIGITAL HUMANITIES:** Daten und Metadaten / Visualisierungen |
 | 04.06. | Geodaten (GIS) und Arbeiten mit Recogito |
 | 11.06. | TEI XML / Close und Distant Reading |
@@ -99,6 +99,7 @@ Details folgen im Laufe des Semesters.
 * Freund, Winfried: Abenteuer Barock. Kultur im Zeitalter der Entdeckungen, Darmstadt, 2004.
 
 ## Sitzung am 24.04.
+
 * Besuch von Jessica Bruns, Leiterin des Altbestands der UB, zur Besichtigung der Originalquelle von Adam Olearius Reisebeschreibung aus dem Jahr 1647.
 
 ## Sitzung am 30.04.
@@ -111,13 +112,14 @@ Details folgen im Laufe des Semesters.
 
 ![Titelkupfer1656](img/Titelblatt.jpg)
 
-
 #### Erläuterung
+
 Die beiden kunstvollen Titelkupfer dienen als Einstieg in die von Olearius beschriebenen fremden Kulturen. Das Titelkupfer von 1647 präsentiert eine reich verzierte Ädikula, die nicht nur dekorativen Charakter besitzt, sondern zugleich die vielschichtigen Ideen des Barock widerspiegelt. Auf dem Giebel erscheint Olearius selbst und inszeniert sich damit als Chronist, Künstler und Repräsentant seines Werkes. Flankiert wird die Szenerie von einem persischen Schah und einem russischen Bojaren, die die zentralen kulturellen Räume der Reise symbolisieren. Ihre detailreich ausgearbeiteten Gewänder und Attribute – etwa die Fuchsmützen des Bojaren oder die prächtige Kleidung des Schahs – verweisen auf die jeweiligen kulturellen Besonderheiten. Wappen unterhalb der Figuren betonen die politischen Identitäten, während ihre Fußstellungen gezielt auf Herkunft und Macht verweisen. Ergänzende Symbole wie der Falke des Schahs als Zeichen von Ehre und Herrschaft sowie der Knes hinter dem Bojaren als Vertreter des russischen Adels vertiefen die ikonographische Aussage und unterstreichen die repräsentative Funktion des Bildes.
 
 Quelle: Yosra Mostafa Nagi (1. Mai 2025). Olearius’ Persianische Reisebeschreibung, https://doi.org/10.58079/13xzq
 
 #### Gruppenarbeit
+
 Bilden Sie vier Arbeitsgruppen. Jede Gruppe erhält eine individuelle Aufgabe, die Sie über den folgenden Link zum Conceptboard erreichen.
 
 * Gruppe 1: Adam Olearius als Reisender, Schriftsteller und Herausgeber. Gliedern Sie Olearius Leben in verschiedene Abschnitte und legen dabei den Fokus auf die Zeit der Gesandtschaftsreise und der Veröffentlichung der Reisebeschreibung: https://app.conceptboard.com/board/0pa3-2tm2-dp9n-581a-f6fb
@@ -125,10 +127,7 @@ Bilden Sie vier Arbeitsgruppen. Jede Gruppe erhält eine individuelle Aufgabe, d
 * Gruppe 3: Die Eröffnung eines neuen Handelswegs und die Etappen der Gesandtschaft: https://app.conceptboard.com/board/6dqx-xeda-d217-7q85-fcuo
 * Gruppe 4: Von der Entdeckungsreise zur Forschungsreise. Warum spricht man bei Olearius Reisebeschreibung erstmals von einem Bericht, der einem Übergang von einer reinen Entdeckungsreise hin zu einer Forschungsreise widerspiegelt? https://app.conceptboard.com/board/a26o-xbyh-r5fd-rpyk-x19z
 
-
 ### Aufgabe zur nächsten Woche
+
 * Bente Gundestrup: Adam Olearius and the Kunstkammer, in: Kirsten Baumann/Constanze Köster/Uta Kuhl: Adam Olearius. Neugier als Methode (Tagungsband zur internationalen Tagung „Der Gottorfer Hofgelehrte Adam Olearius. Neugier als Methode?“, Schleswig 2015). Michael Imhof Verlag, Petersberg 2017, S. 185-193.
-
-
-
 
