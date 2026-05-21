@@ -131,3 +131,54 @@ Bilden Sie vier Arbeitsgruppen. Jede Gruppe erhält eine individuelle Aufgabe, d
 
 * Bente Gundestrup: Adam Olearius and the Kunstkammer, in: Kirsten Baumann/Constanze Köster/Uta Kuhl: Adam Olearius. Neugier als Methode (Tagungsband zur internationalen Tagung „Der Gottorfer Hofgelehrte Adam Olearius. Neugier als Methode?“, Schleswig 2015). Michael Imhof Verlag, Petersberg 2017, S. 185-193.
 
+## Sitzung am 07.05.
+Adam Olearius und die Gottorfische Kunstkammer
+
+![TitelblattKunstkammer](img/Titelblatt_Kunstkammer.jpg)
+
+Link zum Sammlungskatalog "Die Gottorfische Kunst-Cammer", Adam Olearius, 1666: https://www.digitale-sammlungen.de/de/view/bsb10051222?page=161
+
+### Kunstkammer Kopenhagen
+![KunstkammerKopenhagen](img/Kunstkammer_Kopenhagen.jpg)
+
+Ansicht der Kunst- und Wunderkammer von Ole Worm, Kupferstich aus Willum Worm, Musei Wormiani Historia, Leiden 1655
+
+### Museum Faesch in Basel
+![KunstkammerBasel](img/Kunstkammer_Basel.jpg)
+
+Ansicht des Museums Faesch von Remigius Faesch (1595–1667)
+
+### Die Gottorfer Kunstkammer
+Die Gottorfer Kunst- und Naturalienkammer, die von Herzog Friedrich III. unter Adam Olearius im Jahre 1650 angelegt wurde, visualisiert zum einen die Landschaft in ihrer physikalischen Form (Naturalia) und erzeugt zeitgleich ein Bild, wie sie durch menschliche Künste und Kräfte in ihrem Zustand verändert und geformt wird (Artificialia). Ihr Anspruch war der Zeiterscheinung folgend, die universelle Beziehung aller Dinge, von Kunst und Natur, von Historie und Wissenschaft, darzustellen. Das System, das Adam Olearius in der Gottorfer Kunstkammer durch die Sammlungsgegenstände und ihrer Ordnung entwarf, lässt sich anhand der folgenden Formulierung aus seinem Werk zur Gottorfer Kunstkammer verdeutlichen:
+"durch das Kleine was Grosses andeuten und zu verstehen geben".  
+
+#### Wissensordnung 
+Im Unterschied zu den heutigen Museen wurden die Objekte der Kunstkammern, ob Kunstwerke, präparierte Tiere, Pflanzen, Fossilien, Messinstrumente und ethnographisches Material, in einem Sammlungsraum gemeinsam präsentiert. Somit verbanden sie wissenschafts- und sozialgeschichtliche Aspekte, deren Funktionen aus ganz unterschiedlichen Blickwinkeln betrachtet werden können. Kunstkammern dienten zum einen der Repräsentation von Gegenständen und bildeten demnach eine der frühen Formen des musealen Sammelns. Zum anderen bot die Kunstkammer auch Gelegenheit zum direkten Studium am Objekt und bildete mit der Bibliothek in direkter Nachbarschaft einen Mittelpunkt wissenschaftlicher Vernetzung. Häufig lehnte sich die räumliche Organisation der Exponate und die Ordnung des Wissens an Konzepte antiker Gedächtniskunst an. 
+
+#### Konzept der Kunstkammer: Mikro-/Makrokosmos
+Mit dem im 16. Jahrhundert aufkommenden neuen wissenschaftlichen Verständnis für die Welt, scheint sich die Aufmerksamkeit von der Erschaffung der Welt hin zur umfassenden Darstellung der Schöpfung und ihres Seins zu bewegen. Um sich einem "hier und jetzt" zu versichern, d.h. sich der Stellung des Menschen in der Welt bewusst zu werden, verwiesen die gesammelte Objekte der Kunstkammer auf einen übergeordneten Sinn-Zusammenhang und stellen den Menschen mit seiner Umwelt in ein Beziehungsnetz. Diese sogenannte Mikrokosmos-Makrokosmos-Analogie bildete ein wesentliches Element der Naturphilosophie in der Frühen Neuzeit und hatte sich gegenüber der Theologie einen Raum geschaffen.  Die Theorie zur Entstehung der Welt baute zwar weiterhin auf ein scholastisches System auf, war aber nicht mehr rein theologisch motiviert. Die Interpretation der "weltlichen" Erscheinungen rückte in das Blickfeld der Gelehrten. Der Mensch als Mikrokosmos stand entsprechend mit vielen Signaturen in Korrespondenz zu solchen aus dem Makrokosmos. Aus dieser Interaktion des Menschen mit der ihn umgebenden Landschaft folgten Analogien, die zum Beispiel "die Pflanzen der Erde als Behaarung oder ihre Felsen als Knochen beschrieben."  
+
+#### Objekte und Kategorien
+Die einzelnen Gegenstände und mit ihnen der Mensch traten fernwirkend miteinander in Kontakt und beeinflussten sich gegenseitig. Die Kunstkammern waren nach Samuel Quicchebergs Theorie in ein vierstufiges System eingebunden, das die Naturalia über die Artificialia zu den Exotica und Scientificia gegliederte und sie zu einer Einheit verband.
+
+##### Systematik nach Samuel Quiccheberg
+Quicchebergs Modell ist unterteilt in:
+* Religiöse Kunst und Geschichte, die Genealogie des Stifters und Porträts des Herrscherhauses, topographische Darstellungen des Landes, militärischen Operationen und Zeremonien,  Architektur, Modelle von Maschinen.
+* Skulpturen und Numismatik sowie damit verbundene Kunstformen.
+* Naturproben, naturhistorische Sammlungen, Kunstobjekte und Ethnographica.
+* Wissenschaftliche und mechanische Instrumente.
+* Gemälde und grafische Werke, Edelsteine, Spiele und Unterhaltung, Heraldik, Textilien und Objekte aus der lokalen Region. 
+
+##### Das Inventar von 1710
+Das Inventar von 1710 ist in die folgenden Hauptgruppen gegliedert, von denen einige Untergruppen haben:
+1. Pretiosa
+2. Uhren
+3. Gemälde
+4. Skulptur
+5. Antiquitäten
+6. Naturalien
+7. Gewehr und Opfer-Gerätschaft
+8. Der Schrank zu mathematischen Instrumenten. Oben auf dem Schrank. Unten im Schrank. Beim Schrank. In der Mitte auf dem Tisch
+9. Kleider
+10. Sachen, die unter vielen Rubriken gehören
+
