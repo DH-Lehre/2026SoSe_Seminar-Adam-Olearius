@@ -206,7 +206,7 @@ Bitte schauen Sie sich außerdem die digitale Edition der Humboldt Reisetagebüc
 
 ### Aufgabe zur nächsten Woche
 
-Bitte bereiten Sie zur nächsten Woche die folgenden Texte vor (beide im OLAT): 
+Bitte bereiten Sie zur nächsten Woche den folgenden Text vor (im OLAT): 
 
 * Linda Freyberg: Visualisierung. In: AG Digital Humanities Theorie des Verbandes Digital Humanities im deutschsprachigen Raum e. V. (Hg.):
 Begriffe der Digital Humanities. Ein diskursives Glossar (= Zeitschrift für digitale Geisteswissenschaften / Working Papers, 2). Wolfenbüttel 2023.
