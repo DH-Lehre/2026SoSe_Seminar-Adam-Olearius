@@ -204,3 +204,30 @@ Bitte schauen Sie sich außerdem die digitale Edition der Humboldt Reisetagebüc
 
 ## Sitzung am 28.05. 
 
+
+### Datenmodell
+
+**Informationen über den Text:**
+
+| Kategorie                                 | Typ                                           | Beispiel                                       |
+|-------------------------------------------|-----------------------------------------------|------------------------------------------------|
+| Autor | Viaf ID | 100205492 (=> Adam Olearius) |
+| 
+
+
+**Informationen im Text:**
+
+| Kategorie                                 | Typ                                           | Beispiel                                       |
+|-------------------------------------------|-----------------------------------------------|------------------------------------------------|
+| Datum | YYYY-MM-DD (ISO 8601) | 1633-10-03 |
+| Ortsbezeichnung | GeoNames ID | 418863 (=> Isfahan) |
+| Personen | Viaf ID | 100205492 (=> Adam Olearius) |
+| Gruppen / Ethnien | | |
+| Kulturelle Praktiken | | |
+| Fortbewegungsmittel | | |
+| Gegenstände | Hauptkategorien Wunderkammer | |
+| Ereignisse | Kommentar | |
+
+
+
+
