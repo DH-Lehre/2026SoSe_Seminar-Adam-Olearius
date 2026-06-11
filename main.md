@@ -54,8 +54,8 @@ Die Gottorfer Kunst- und Wunderkammer zählt zu den bedeutendsten enzyklopädisc
 | 07.05. | Wunderkammern, Sammlungen und materielle Objekte in den Geschichtswissenschaften |
 | 14.05. | FEIERTAG - KEIN SEMINAR |
 | 21.05. | Orientalismus und das Archiv; Arbeitssitzung und Gruppeneinteilung |
-| 28.05. | **DIGITAL HUMANITIES:** Daten und Metadaten / Visualisierungen |
-| 04.06. | Geodaten (GIS) und Arbeiten mit Recogito |
+| 28.05. | **DIGITAL HUMANITIES:** Daten und Metadaten |
+| 04.06. | Geodaten (GIS)  / Visualisierungen |
 | 11.06. | TEI XML / Close und Distant Reading |
 | 18.06. | Photogrammetrie und 3D-Druck |
 | 25.06. | **PRAXISPHASE / PROJEKT**   |
@@ -229,5 +229,20 @@ Bitte schauen Sie sich außerdem die digitale Edition der Humboldt Reisetagebüc
 | Ereignisse | Kommentar | |
 
 
+### Aufgabe zur nächsten Woche
+
+Bitte bereiten Sie zur nächsten Woche den folgenden Text vor (im OLAT): 
+
+* Linda Freyberg: Visualisierung. In: AG Digital Humanities Theorie des Verbandes Digital Humanities im deutschsprachigen Raum e. V. (Hg.):
+Begriffe der Digital Humanities. Ein diskursives Glossar (= Zeitschrift für digitale Geisteswissenschaften / Working Papers, 2). Wolfenbüttel 2023.
 
 
+## Sitzung am 04.06.
+
+## Sitzung am 11.06.
+
+### Link zum TEI-Publisher
+
+[TEI Publisher](https://projekt02.existdb.ub.uni-kiel.de/exist/apps/tei-publisher/index.html), nur aus dem Uni-Netz bzw. über VPN zu erreichen. 
+
+olearius-<x> / persianischeReise<x>
