@@ -246,3 +246,22 @@ Begriffe der Digital Humanities. Ein diskursives Glossar (= Zeitschrift für dig
 [TEI Publisher](https://projekt02.existdb.ub.uni-kiel.de/exist/apps/tei-publisher/index.html), nur aus dem Uni-Netz bzw. über VPN zu erreichen. 
 
 olearius-<x> / persianischeReise<x>
+
+## Sitzung am 18.06.
+
+### Erfassungsrichtlinie
+
+Wie in der Sitzung abgesprochen, sollen alle Teile der Reisebeschreibung nach den folgenden Merkmalen ausgezeichnet werden:
+
+| Merkmal | Erfassungstiefe |
+|-----------------|----------------------------------------------------------------------------|
+| Person | Personen werden erfasst, soweit sie in der GND vorhanden sind und eine Funktion im Text haben; das gilt auch für mythologische Personen/Figuren. Ist eine Person nur durch den Titel bezeichnet (aber wichtig), erfolgt die Erfassung über "Term" |
+| Organisation / Gruppe | keine Auszeichnung |
+| Ortsnamen | soweit möglich mittels Geonames; wenn Orte nicht identifiziert werden können: sammeln und mitbringen |
+| Term | funktional wichtige Terme werden erfasst, insbesondere von Funktionsträgern; Karawanen werden nicht ausgezeichnet |
+| Datumsangabe | so präzise wie möglich, d.h. Jahresangaben aus dem Kontext erschließen; Wochen und Monate mit von/bis erfassen |
+| Ref/Link | wird zur Erfassung von Gegenständen verwendet, Bsp. folgt |
+| Event | Erfassung von Datum und Typ. Typ ist dabei einer von: folgt (bisher diskutiert haben wir: Audienz, Tragödien, Mahlzeiten, Festlichkeit, Empfang, Rituale, nicht-alltägliche Zusammenkunft, Ankunft/Aufbruch, Beobachtung, Begegnung mit dem Fremden, systematische Beschreibung) |
+
+
+## Sitzung am 25.06.
