@@ -260,7 +260,7 @@ Wie in der Sitzung abgesprochen, sollen alle Teile der Reisebeschreibung nach de
 | Ortsnamen | soweit möglich mittels Geonames; wenn Orte nicht identifiziert werden können: sammeln und mitbringen |
 | Term | funktional wichtige Terme werden erfasst, insbesondere von Funktionsträgern; Karawanen werden nicht ausgezeichnet |
 | Datumsangabe | so präzise wie möglich, d.h. Jahresangaben aus dem Kontext erschließen; Wochen und Monate mit von/bis erfassen |
-| Ref/Link | wird zur Erfassung von Gegenständen verwendet, Bsp. folgt |
+| Ref/Link | wird zur Erfassung von Gegenständen verwendet; wird ein Objekt im Katalog zur Kunstkammer (Münchener Staatsbibliothek) entdeckt, dann verweisen Sie bitte direkt auf die jweilige Kachel über die URL, bspw.: Tabula III, Num. 4.5. https://www.digitale-sammlungen.de/de/view/bsb10051222?page=27; wird ein Objekt in den Inventarlisten aus dem Buch "Gottorf im Glanz des Barock", im Olat-Ordner,  identifiziert, dann geben Sie bitte die jeweils verwendete Signatur an, bspw.: Inventar 1694, Nr. 57.13; Inventar 1710, VI Naturalia, Nr. 3;  Inventar 1743, Nr. 43 |
 | Event | Erfassung von Datum und Typ. Typ ist dabei einer von: folgt (bisher diskutiert haben wir: Audienz, Tragödien, Mahlzeiten, Festlichkeit, Empfang, Rituale, nicht-alltägliche Zusammenkunft, Ankunft/Aufbruch, Beobachtung, Begegnung mit dem Fremden, systematische Beschreibung) |
 
 
