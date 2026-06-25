@@ -261,7 +261,29 @@ Wie in der Sitzung abgesprochen, sollen alle Teile der Reisebeschreibung nach de
 | Term | funktional wichtige Terme werden erfasst, insbesondere von Funktionsträgern; Karawanen werden nicht ausgezeichnet |
 | Datumsangabe | so präzise wie möglich, d.h. Jahresangaben aus dem Kontext erschließen; Wochen und Monate mit von/bis erfassen |
 | Ref/Link | wird zur Erfassung von Gegenständen verwendet; wird ein Objekt im Katalog zur Kunstkammer (Münchener Staatsbibliothek) entdeckt, dann verweisen Sie bitte direkt auf die jeweilige Kachel über die URL, bspw.: Tabula III, Num. 4.5. https://www.digitale-sammlungen.de/de/view/bsb10051222?page=27; wird ein Objekt in den Inventarlisten aus dem Buch "Gottorf im Glanz des Barock" (Olat-Ordner) identifiziert, dann geben Sie bitte die jeweils verwendete Signatur an, bspw.: Inventar 1694, Nr. 57.13; Inventar 1710, VI Naturalia, Nr. 3;  Inventar 1743, Nr. 43 |
-| Event | Erfassung von Datum und Typ. Typ ist dabei einer von: folgt (bisher diskutiert haben wir: Audienz, Tragödien, Mahlzeiten, Festlichkeit, Empfang, Rituale, nicht-alltägliche Zusammenkunft, Ankunft/Aufbruch, Beobachtung, Begegnung mit dem Fremden, systematische Beschreibung) |
+| Event | Erfassung von Datum und Typ. Typ ist dabei einer von: siehe unten! folgt (bisher diskutiert haben wir: Audienz, Tragödien, Mahlzeiten, Festlichkeit, Empfang, Rituale, nicht-alltägliche Zusammenkunft, Ankunft/Aufbruch, Beobachtung, Begegnung mit dem Fremden, systematische Beschreibung) |
 
+**Typen von Events:**
+
+Die Typen unterteilen sich in drei große Gruppen. Bitte geben Sie in dem entsprechenden Feld im TEI Publisher den dem Typ zugehörigen Code ein (unten in *kursiv*), also bspw.: *rituelles_ereignis*. Die Interaktionsereignisse sollten nur dann als solche codiert werden, wenn die Reisegemeinschaft unmittelbar in die Interaktion involviert war; werden entsprechende Praktiken beschrieben, dann handelt es sich eher um ein Erkenntnisereignis. Bitte annotieren Sie für Ereignisse das jeweils erste Wort des Absatzes, in dem die Ereignisbeschreibung beginnt. 
+
+Interaktionsereignisse:
+
+* *diplomatische_begegnung*: Eine Audienz, ein Empfang, etc.; unterscheidet sich von den anderen Codes in dieser Kategorie durch den formal-protokollarischen Rahmen
+* *geselliges_ereignis*: Eine Mahlzeit, Festlichkeit, nicht-alltägliche Zusammenkunft, die aber keinen formal-protokollarischen Rahmen aufweist
+* *rituelles_ereignis*: Rituale, religiöse Handlungen, Zeremonien und andere kulturelle Praktiken, die einen religiösen oder kultischen Hintergrund haben
+
+Erkenntnisereignisse:
+
+* *direkte_beobachtung*: Situationsbeschreibung, bei der Olearius selbst als Augenzeuge fungiert
+* *systematische_beschreibung*: Klassifikation, Geographie, Naturkunde, Messungen und andere umfangreichere, systematisch durchgeführte Betrachtungen
+* *begegnung_fremde*: Begegnung mit dem Fremden, also eigene Distanzierung bzw. kulturelle Differenz, die mit einem Staunen verbunden ist
+* *objekt_interesse*: Erwähnung eines interessanten Objekts; wurde das Objekt mitgenommen, dann bitte versuchen Bezug zum Katalog herzustellen, s. oben bei **Ref/Link**
+
+Bewegungs- und Reiseereignisse:
+
+* *ankunft_aufbruch*: Ankunft an bzw. Aufbruch von einem Ort
+* *tragödie*: ein einschneidendes Ereignis, wie Todesfälle, Naturkatastrophen, Schiffbrüche, etc.
+* *unterbrechung*: Verzögerungen der Reise durch äußere (nicht-katastrophale) Einflüsse und bewusst unternommene Pausen 
 
 ## Sitzung am 25.06.
